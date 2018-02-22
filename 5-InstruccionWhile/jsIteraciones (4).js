@@ -8,4 +8,8 @@ function Mostrar()
 	}
 	alert("Número validado, Gracias");
 	document.getElementById("Numero").value = numero; 
+
+//VERIFICAR PARA QUE FUNCIONE LA TECLA CANCELAR SIN ENTRAR EN LA CONDICION Y VERIFICAR SI EL ELEMENTO 
+//INGRESADO ES UN NUMERO (IsNaN)
+
 }//FIN DE LA FUNCIÓN
